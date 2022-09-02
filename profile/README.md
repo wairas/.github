@@ -4,8 +4,3 @@ WaiRAS is a group of researchers, with skills spanning artificial Intelligence, 
 
 Our Vision is to be the most reputable and respected research organization in Robotics, Automation and Sensing technologies in the Waikato region.
 
-* AgriRobotics
-* Applied Machine Learning
-* Sensing
-* Robotics
-
